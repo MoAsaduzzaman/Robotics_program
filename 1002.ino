@@ -16,5 +16,4 @@ void loop(){
     }
     Serial.Println(data);
     data="";
-
 }
