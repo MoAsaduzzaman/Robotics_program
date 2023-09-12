@@ -13,7 +13,7 @@ void loop(){
     analogWrite(led,225);
     delay(1000);
 }
-
+ 
 /*Another way for this program using for loop*/
 
 int led=6;
