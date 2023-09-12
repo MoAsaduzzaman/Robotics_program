@@ -1,7 +1,7 @@
 /* A sample program for blink a LED for a specific amount of time. */
 
 void setup(){
-    pinMode(2,OUTPUT);
+    pinMode(2,OUTPUT); 
 }
 
 void loop(){
