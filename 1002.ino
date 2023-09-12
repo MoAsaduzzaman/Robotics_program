@@ -4,7 +4,7 @@
 SoftwareSerial obj(8,9);
 String data;
 
-void setup(){
+void setup(){ 
     obj.begin(9600);
     Serial.begin(9600);
 }
