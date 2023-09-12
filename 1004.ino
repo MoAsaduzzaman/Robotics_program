@@ -14,7 +14,7 @@ void setup(){
 
 void loop(){
     digitalWrite(relay_1,LOW);
-    delay(500);
+    delay(500); 
 
     digitalWrite(relay_2,LOW);
     delay(500);
