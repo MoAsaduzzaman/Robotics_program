@@ -3,7 +3,7 @@
 int led=6;
 
 void setup(){
-    pinMode(led,OUTPUT);
+    pinMode(led,OUTPUT); 
 
 }
 
