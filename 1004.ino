@@ -9,7 +9,7 @@ void setup(){
     pinMode(relay_1,OUTPUT);
     pinMode(relay_2,OUTPUT);
     pinMode(relay_3,OUTPUT);
-    pinMode(relay_4,OUTPUT);
+    pinMode(relay_4,OUTPUT); 
 }
 
 void loop(){
